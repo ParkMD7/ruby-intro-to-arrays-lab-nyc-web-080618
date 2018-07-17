@@ -23,4 +23,9 @@ def last_element(taylor_swift)
 end
 
 
+def first_element_with_array_methods()
+  
+end
+
+
 def 
